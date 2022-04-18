@@ -1,1 +1,5 @@
-# policy-auth0
+# policy-template
+
+Repository template for Aserto policy repos.
+
+
